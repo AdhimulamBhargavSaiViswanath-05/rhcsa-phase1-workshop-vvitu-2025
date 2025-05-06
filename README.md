@@ -26,6 +26,16 @@ This was a 6-day foundational workshop focusing on **Linux system administration
 
 ---
 
+## 📚 Workshop Notes & Resources
+
+All the concepts, commands, and learning materials discussed during the RHCSA Phase 1 Workshop have been carefully documented in this repository.  
+
+📝 You can explore my notes and summaries for each session here — they reflect the training delivered by the Red Hat mentors and the official material provided during the workshop.
+
+> This repository serves as a reference for anyone who wants to revisit or learn the foundational topics of Linux system administration using RHEL.
+
+---
+
 ## 👨‍🏫 Mentors & Support
 
 ### 🧑‍🏫 Workshop Mentors:
