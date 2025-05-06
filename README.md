@@ -43,7 +43,7 @@ Gratitude for organizing such a valuable training initiative that benefits stude
 Your consistent support and effective coordination made this workshop smooth and impactful.
 
 ### 🎓 Institutional Leadership:
-- **Dr. T. Vijaya Krishna**, Principal – VVITU  
+- **Dr. Y. Mallikarjuna Reddy, Ph.D., Professor & Principal** – VVITU  
 Special thanks for enabling such professional programs and encouraging student participation at VVITU.
 
 ---
