@@ -53,6 +53,12 @@ Special thanks for enabling such professional programs and encouraging student p
 We are excited and looking forward to **Phase 2** of the RHCSA Workshop, where we will dive deeper into advanced Linux administration tasks, live simulations, and in-depth preparation for the RHCSA certification.
 
 ---
+## 🔗 LinkedIn Post
+
+You can also check out my reflection and highlights of this workshop on LinkedIn:  
+👉 [LinkedIn Post – RHCSA Phase 1 Workshop at VVITU](https://www.linkedin.com/posts/adhimulambhargavsaiviswanath_rhcsa-redhat-linux-activity-7325386174343061504-LiK-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErcx_oBgfU6Z0sEpHM_mtVuDQXv_VG3mgc)
+
+---
 
 ## 🏁 Conclusion
 
